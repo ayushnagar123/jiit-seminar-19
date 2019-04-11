@@ -11,6 +11,6 @@
   </head>
   <body>
     <h1>Jaypee Literary seminar 2019</h1>
-    <div class="brosher"><iframe src="brosher/index.html"></iframe>
+    <div class="brosher"><?php include("brosher/index.html"); ?></div>
   <body>
 </html>
