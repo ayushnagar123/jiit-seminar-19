@@ -1,5 +1,5 @@
 <html>
-  <head>
+  <head><title>Jaypee Literary Seminar</title>
     
   </head>
   <body>
