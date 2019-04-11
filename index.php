@@ -11,6 +11,6 @@ $(document).ready(function(){
   </head>
   <body>
     <h1>Jaypee Literary seminar 2019</h1>
-    <div class="brosher"><link rel="import" href="brosher/index.html"></div>
+    <div class="brosher"><iframe src="brosher/index.html"></iframe>
   <body>
 </html>
