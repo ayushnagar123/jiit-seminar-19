@@ -139,7 +139,7 @@
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporarry Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
-              <a href="http://forms.gle/kPpmiYuDdDvsBSH9" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Submit Abstract</a>
+              <a href="https://forms.gle/kPpmiYuDdDvsvBSh9" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Submit Abstract</a>
               <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
             </div>
           </div>
