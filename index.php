@@ -332,7 +332,7 @@
                   <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#monday" role="tab" aria-controls="monday" aria-expanded="true">
                     <div class="item-text">
                       <h4>Friday</h4>
-                      <h5>26 April</h5>
+                      <h5>Before Noon</h5>
                     </div>
                   </a>
                 </li>
@@ -340,7 +340,7 @@
                   <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#tuesday" role="tab" aria-controls="tuesday">
                     <div class="item-text">
                       <h4>Friday</h4>
-                      <h5>26 April</h5>
+                      <h5>After Noon</h5>
                     </div>
                   </a>
                 </li>
@@ -348,7 +348,7 @@
                   <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#wednesday" role="tab" aria-controls="wednesday">
                     <div class="item-text">
                       <h4>Saturday</h4>
-                      <h5>27 April</h5>
+                      <h5>Before Noon</h5>
                     </div>
                   </a>
                 </li>
@@ -356,7 +356,7 @@
                   <a class="nav-link" id="thursday-tab" data-toggle="tab" href="#thursday" role="tab" aria-controls="thursday">
                     <div class="item-text">
                       <h4>Saturday</h4>
-                      <h5>27 April</h5>
+                      <h5>After Noon</h5>
                     </div>
                   </a>
                 </li>
