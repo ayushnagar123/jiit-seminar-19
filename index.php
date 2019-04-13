@@ -320,7 +320,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Schedules</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipiscing <br> elit, sed do eiusmod tempor</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">A followup of the events</p>
             </div>
           </div>
         </div>
@@ -331,32 +331,32 @@
                 <li class="nav-item">
                   <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#monday" role="tab" aria-controls="monday" aria-expanded="true">
                     <div class="item-text">
-                      <h4>Monday</h4>
-                      <h5>14 February</h5>
+                      <h4>Friday</h4>
+                      <h5>26 April</h5>
                     </div>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#tuesday" role="tab" aria-controls="tuesday">
                     <div class="item-text">
-                      <h4>Tuesday</h4>
-                      <h5>15 February</h5>
+                      <h4>Friday</h4>
+                      <h5>26 April</h5>
                     </div>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#wednesday" role="tab" aria-controls="wednesday">
                     <div class="item-text">
-                      <h4>Wednesday</h4>
-                      <h5>16 February</h5>
+                      <h4>Saturday</h4>
+                      <h5>27 April</h5>
                     </div>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="thursday-tab" data-toggle="tab" href="#thursday" role="tab" aria-controls="thursday">
                     <div class="item-text">
-                      <h4>Thursday</h4>
-                      <h5>17 February</h5>
+                      <h4>Saturday</h4>
+                      <h5>27 April</h5>
                     </div>
                   </a>
                 </li>
@@ -679,7 +679,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Who's Speaking?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Well known personalities will ge gathered</p>
             </div>
           </div>
         </div>
