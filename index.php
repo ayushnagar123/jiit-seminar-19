@@ -686,7 +686,9 @@
         <!--
          <div class="row">
           <div class="col-sm-6 col-md-6 col-lg-4">
+        -->
             <!-- Team Item Starts -->
+            <!--
             <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
               <div class="team-img">
                 <img class="img-fluid" src="assets/img/team/team-01.jpg" alt="">
@@ -706,8 +708,10 @@
                 <p>Product Designer, Tesla</p>
               </div>
             </div>
+            -->
             <!-- Team Item Ends -->
-          </div>
+          <!--
+                               </div>
           <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- Team Item Starts -->
             <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
@@ -729,8 +733,10 @@
                 <p>Front-end Developer, Dropbox</p>
               </div>
             </div>
-            <!-- Team Item Ends -->
-          </div>
+          -->
+                               <!-- Team Item Ends -->
+          <!--
+                               </div>
 
           <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- Team Item Starts -->
@@ -757,7 +763,9 @@
           </div>
 
           <div class="col-sm-6 col-md-6 col-lg-4">
+                                                 -->
             <!-- Team Item Starts -->
+                                                 <!--
             <div class="team-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="team-img">
                 <img class="img-fluid" src="assets/img/team/team-04.jpg" alt="">
@@ -777,8 +785,10 @@
                 <p>Back-end Developer, ASUS</p>
               </div>
             </div>
+                               -->
             <!-- Team Item Ends -->
-          </div>
+          <!--
+                               </div>
           <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- Team Item Starts -->
             <div class="team-item wow fadeInUp" data-wow-delay="1s">
@@ -800,8 +810,10 @@
                 <p>Full-stack Developer, Google</p>
               </div>
             </div>
-            <!-- Team Item Ends -->
-          </div>
+            -->
+                               <!-- Team Item Ends -->
+          <!--
+                               </div>
           <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- Team Item Starts -->
             <div class="team-item wow fadeInUp" data-wow-delay="1.2s">
@@ -823,8 +835,10 @@
                 <p>UI Designer, Apple</p>
               </div>
             </div>
+                               <!--
             <!-- Team Item Ends -->
-          </div>
+          <!--
+                               </div>
         </div>
         -->
         <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a>
