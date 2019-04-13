@@ -319,7 +319,7 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title-header text-center">
-              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Schedules</h1>
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event's Schedule</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">A followup of the events</p>
             </div>
           </div>
