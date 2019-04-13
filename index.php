@@ -135,7 +135,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="First slide">
+            <img class="d-block w-100" src="http://www.jiit.ac.in/sites/default/files/1_3.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporarry Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
