@@ -137,7 +137,7 @@
           <div class="carousel-item active">
             <img class="d-block w-100" src="https://www.myclassboard.com/blog/wp-content/uploads/2017/09/CBSE-schools-to-run-tuck-shops.jpg alt="First slide">
             <div class="carousel-caption d-md-block">
-              <p class="fadeInUp wow" data-wow-delay=".6s">Contemporarry Literarture:Trends and Techniques</p>
+              <p class="fadeInUp wow" data-wow-delay=".6s">Contemporary Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
               <a href="https://docs.google.com/forms/d/1U07snZdHXTb2418EoVZbEDHVk9GvfnNpaT_pAJZw9KQ/viewform?edit_requested=true&pli=1&edit_requested=true" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Submit Abstract</a>
               <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
