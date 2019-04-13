@@ -683,7 +683,8 @@
             </div>
           </div>
         </div>
-        <div class="row">
+        <!--
+         <div class="row">
           <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- Team Item Starts -->
             <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
@@ -825,7 +826,8 @@
             <!-- Team Item Ends -->
           </div>
         </div>
-        <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">All Speakers</a>
+        -->
+        <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a>
       </div>
     </section>
     <!-- Team Section End -->
@@ -986,7 +988,7 @@
           </div>
           -->
           <div class="col-12 text-center">
-            <a href="#" class="btn btn-common">Comming Soon!</a>
+            <a href="#" class="btn btn-common">Coming Soon!</a>
           </div>
         </div>
       </div>
