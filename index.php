@@ -679,7 +679,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Who's Speaking?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Well known personalities will ge gathered</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Well known personalities will be gathered</p>
             </div>
           </div>
         </div>
