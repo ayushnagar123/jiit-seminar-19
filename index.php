@@ -289,27 +289,18 @@
           <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="0.3s">
               <div class="icon"><i class="lni-map"></i></div>
-              <p>Wst. Conference Center</p>
-              <span>San Francisco, CA</span>
+              <p>Jaypee Institute</p>
+              <span>Sector-62 Noida, India</span>
             </div>
           </div>
           <!-- Counter Item -->
           <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="0.6s">
               <div class="icon"><i class="lni-timer"></i></div>
-              <p>February 14 - 19, 2018</p>
+              <p>April 26 - 27, 2019</p>
               <span>09:00 AM – 05:00 PM</span>
             </div>
           </div>
-          <!-- Counter Item -->
-          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
-            <div class="counter wow fadeInRight" data-wow-delay="0.9s">
-              <div class="icon"><i class="lni-users"></i></div>
-              <p>343 Available Seats</p>       
-              <span>Hurryup! few tickets are left</span>
-            </div>
-          </div>
-          <!-- Counter Item -->
           <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="1.2s">
               <div class="icon"><i class="lni-coffee-cup"></i></div>
