@@ -837,7 +837,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Ask Question?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Trends & Techniques in Today's Literature</p>
             </div>
           </div>
         </div>
@@ -957,7 +957,7 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title-header text-center">
-              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Sponsores</h1>
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Sponsors</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
             </div>
           </div>
