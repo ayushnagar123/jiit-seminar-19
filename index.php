@@ -963,7 +963,7 @@
           </div>
         </div>
         <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
-          <div class="sponsors"><p>Comming Soon!</p>
+          <div class="sponsors"><p style="text-align:center; font-size:6">Comming Soon!</p>
           <!--
            <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="spnsors-logo">
@@ -985,10 +985,10 @@
               <a href="#"><img class="img-fluid" src="assets/img/sponsors/logo-04.png" alt=""></a>
             </div>
           </div>
-          -->
           <div class="col-12 text-center">
             <a href="#" class="btn btn-common">become a sponsor</a>
           </div>
+          -->
         </div>
       </div>
     </section>
