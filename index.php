@@ -135,7 +135,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiV3f_oxc3hAhWHvY8KHZKGBbAQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.myclassboard.com%252Fblog%252Fcbse-schools-run-tuck-shops-sell-books-uniforms-stationery%252F%26psig%3DAOvVaw1iwyzVyiruGNuMmSJKSFfx%26ust%3D1555261255192190&psig=AOvVaw1iwyzVyiruGNuMmSJKSFfx&ust=1555261255192190" alt="First slide">
+            <img class="d-block w-100" src="https://www.myclassboard.com/blog/wp-content/uploads/2017/09/CBSE-schools-to-run-tuck-shops.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporarry Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
