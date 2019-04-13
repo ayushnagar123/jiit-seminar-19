@@ -38,7 +38,7 @@
               <span class="icon-menu"></span>
               <span class="icon-menu"></span>
             </button>
-            <a href="index.php" class="navbar-brand"><img src="assets/img/Graduation Cap Logo 256x256.png" alt=""></a>
+            <a href="index.php" class="navbar-brand"><img src="assets/img/logo.png" alt=""></a>
           </div>
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="navbar-nav mr-auto w-100 justify-content-end">
@@ -135,7 +135,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://www.myclassboard.com/blog/wp-content/uploads/2017/09/CBSE-schools-to-run-tuck-shops.jpg alt="First slide">
+            <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporary Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
