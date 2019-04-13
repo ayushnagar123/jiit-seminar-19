@@ -137,6 +137,7 @@
           <div class="carousel-item">
             <img class="d-block w-100" src="assets/img/slider/slide2.jpg" alt="Second slide">
             <div class="carousel-caption d-md-block>
+              <p class="fadeInUp wow" data-wow-delay=".6s">Contemporary Literarture:Trends and Techniques</p>
               <h1 class="wow bounceIn heading" data-wow-delay=".7s">Amazing Speakers</h1>
               <a href="#" class="fadeInUp wow btn btn-border btn-lg" data-wow-delay=".8s">Learn More</a>
             </div>
