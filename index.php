@@ -101,9 +101,6 @@
             <a class="page-scroll" href="#team">Speakers</a>
           </li>
           <li>
-            <a class="page-scroll" href="#gallery">Gallery</a>
-          </li>
-          <li>
             <a class="page-scroll" href="#faq">Faq</a>
           </li>
           <li>
@@ -233,42 +230,6 @@
               </div>
               <div class="services-content">
                 <h3><a href="#">Fresh Tech Insights</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-              </div>
-            </div>
-          </div>
-          <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-            <div class="services-item wow fadeInDown" data-wow-delay="0.8s">
-              <div class="icon">
-                <i class="lni-cup"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">Networking Session</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-              </div>
-            </div>
-          </div>
-           <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-            <div class="services-item wow fadeInDown" data-wow-delay="1s">
-              <div class="icon">
-                <i class="lni-user"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">Global Event</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-              </div>
-            </div>
-          </div>
-           <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-            <div class="services-item wow fadeInDown" data-wow-delay="1.2s">
-              <div class="icon">
-                <i class="lni-bubble"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">Free Swags</a></h3>
                 <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
               </div>
             </div>
