@@ -135,7 +135,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://www.myclassboard.com/blog/wp-content/uploads/2017/09/CBSE-schools-to-run-tuck-shops.jpg" alt="First slide">
+            <img class="d-block w-100" src="https://www.myclassboard.com/blog/wp-content/uploads/2017/09/CBSE-schools-to-run-tuck-shops.jpg alt="First slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporarry Literarture:Trends and Techniques</p>
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
