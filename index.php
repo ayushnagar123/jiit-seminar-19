@@ -671,6 +671,22 @@
       </div>
     </section>
     <!-- Schedule Section End -->
+                                             
+<!-- Event Slides Section Start -->
+    <section id="event-slides" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title-header text-center">
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Brochure</h1>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Trends & Techniques used in Today's Literature</p>
+            </div>
+          </div>
+          <p> Coming Soon </p>
+        </div>
+      </div>
+    </section>
+    <!-- Event Slides Section End -->
 
     <!-- Team Section Start -->
     <section id="team" class="section-padding text-center">
@@ -851,36 +867,7 @@
     </section>
     <!-- Sponsors Section End -->
                                               
-    <!-- Event Slides Section Start -->
-    <section id="event-slides" class="section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="section-title-header text-center">
-              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Guideline</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInRight" data-wow-delay="0.3s">
-            <div class="video">
-              <img class="img-fluid" src="assets/img/about/about.jpg" alt="">
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
-            <p class="intro-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.
-            </p>
-            <h2 class="intro-title">Check List</h2>
-            <ul class="list-specification">
-              <li><i class="lni-check-mark-circle"></i> Lorem Ipsum is simply dummy</li>
-              <li><i class="lni-check-mark-circle"></i> Ipsum passages, and more recently</li>
-              <li><i class="lni-check-mark-circle"></i> PageMaker including versions</li>
-              <li><i class="lni-check-mark-circle"></i> Lorem Ipsum is simply dummy</li> 
-            </ul>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Event Slides Section End -->
+    
                                                   
     <!-- Map Section Start -->
     <section id="google-map-area">
@@ -951,7 +938,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
-            <h3><img src="assets/img/logo.png" alt=""></h3>
+            <h3><img src="assets/img/logo2.png" alt=""></h3>
             <p>
               Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam quis nostrud ncididunt.
             </p>
@@ -962,8 +949,6 @@
               <li><a href="#">About Conference</a></li>
               <li><a href="#">Our Speakers</a></li>
               <li><a href="#">Event Shedule</a></li>
-              <li><a href="#">Latest News</a></li>
-              <li><a href="#">Event Photo Gallery</a></li>
             </ul>
           </div>
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
@@ -1007,8 +992,6 @@
               <h5 class="widget-title">FOLLOW US ON</h5>
               <ul class="footer-social">
                 <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
-                <li><a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a></li>
                 <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
@@ -1017,18 +1000,6 @@
       </div>
     </footer>
     <!-- Footer Section End -->
-
-    <div id="copyright">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="site-info">
-              <p>© Designed and Developed by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
-            </div>      
-          </div>
-        </div>
-      </div>
-    </div>
 
     <!-- Go to Top Link -->
     <a href="#" class="back-to-top">
