@@ -835,7 +835,7 @@
                 <p>UI Designer, Apple</p>
               </div>
             </div>
-                               <!--
+                               -->
             <!-- Team Item Ends -->
           <!--
                                </div>
