@@ -130,15 +130,13 @@
             <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Contemporary Literarture:Trends and Techniques</p>
-              <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Jaypee Student Seminar III</h1>
+              <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Submit your abstract now</h1>
               <a href="https://docs.google.com/forms/d/1U07snZdHXTb2418EoVZbEDHVk9GvfnNpaT_pAJZw9KQ/viewform?edit_requested=true&pli=1&edit_requested=true" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Submit Abstract</a>
-              <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
             </div>
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="assets/img/slider/slide2.jpg" alt="Second slide">
-            <div class="carousel-caption d-md-block">
-              <p class="fadeInUp wow" data-wow-delay=".6s">Jaypee Student Seminar III</p>
+            <div class="carousel-caption d-md-block>
               <h1 class="wow bounceIn heading" data-wow-delay=".7s">Amazing Speakers</h1>
               <a href="#" class="fadeInUp wow btn btn-border btn-lg" data-wow-delay=".8s">Learn More</a>
             </div>
@@ -147,7 +145,7 @@
             <img class="d-block w-100" src="assets/img/slider/slide3.jpg" alt="Third slide">
             <div class="carousel-caption d-md-block">
               <p class="fadeInUp wow" data-wow-delay=".6s">Jaypee Student Seminar III</p>
-              <h1 class="wow fadeInUp heading" data-wow-delay=".6s">Submit your abstract now</h1>
+              <h1 class="wow fadeInUp heading" data-wow-delay=".6s">Explore More</h1>
               <a href="#" class="fadeInUp wow btn btn-common btn-lg" data-wow-delay=".8s">Explore</a>
             </div>
           </div>
