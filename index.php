@@ -370,56 +370,24 @@
                     <div id="headingOne">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                           
-                        <span class="time">9:00 am/span>
-                        <h4>Innaugration by Hon’ Vice Chancellor</h4>
+                        <span class="time">9:00 am</span>
+                        <h4>Inaugration by Hon’ Vice Chancellor</h4>
                       </div>
                     </div>
-                   <!-- <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
-                      </div>
-                    </div> --!>
                   </div>
                   <div class="card">
                     <div id="headingTwo">
-                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-2.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>15 Free Productive Design Tools</h4>
-                        <h5 class="name">David Warner</h5>
-                      </div>
-                    </div>
-                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">                   
+                        <span class="time">9:30 am </span>
+                        <h4>High Tea</h4>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div id="headingThree">
-                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-3.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>Getting Started With SketchApp</h4>
-                        <h5 class="name">David Warner</h5>
-                      </div>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">                    
+                        <span class="time">10:00 am - 12:00 pm</span>
+                        <h4>Technical Sessions</h4>
                       </div>
                     </div>
                   </div>
