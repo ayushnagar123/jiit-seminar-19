@@ -672,7 +672,7 @@
     <!-- Schedule Section End -->
                                              
 <!-- Event Brochure Start -->
-    <section id="event-slides" class="section-padding">
+    <section id="brochure" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -680,8 +680,8 @@
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Brochure</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar 3.0</p>
             </div>
+           <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a>
           </div>
-          <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a>
         </div>
       </div>
     </section>
