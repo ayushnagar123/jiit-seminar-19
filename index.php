@@ -38,7 +38,7 @@
               <span class="icon-menu"></span>
               <span class="icon-menu"></span>
             </button>
-            <a href="index.php" class="navbar-brand"><img src="assets/img/logo2.png" alt=""></a>
+            <a href="index.php" class="navbar-brand"><img src="assets/img/logo2.png" alt="">JLS-3.0</a>
           </div>
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="navbar-nav mr-auto w-100 justify-content-end">
