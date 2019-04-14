@@ -680,7 +680,7 @@
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Brochure</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar 3.0</p>
             </div>
-           <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a>
+           <p style="text-align:center;" ><a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a></p>
           </div>
         </div>
       </div>
