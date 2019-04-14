@@ -583,7 +583,7 @@
     </section>
     <!-- Contact Us Section End -->
     <!-- Footer Section Start -->
-    <footer class="footer-area section-padding">
+    <footer class="footer-area section-padding" style="justify-content:center;">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
@@ -604,7 +604,6 @@
               <h5 class="widget-title">FOLLOW US ON</h5>
               <ul class="footer-social">
                 <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
           </div>
