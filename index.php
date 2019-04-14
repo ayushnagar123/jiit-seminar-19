@@ -57,7 +57,7 @@
                   schedule
                 </a>
                <li class="nav-item">
-                <a class="nav-link" href="#event-slides">
+                <a class="nav-link" href="#brochure">
                   brochure
                 </a>
               </li>
