@@ -353,7 +353,7 @@
                   <div class="card">
                     <div id="headingOne">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        <span class="time">9:00 am</span>
+                        <span class="time">9:00 am - 9:30 am</span>
                         <h4>Inaugration by Hon’ Vice Chancellor</h4>
                       </div>
                     </div>
@@ -361,7 +361,7 @@
                   <div class="card">
                     <div id="headingTwo">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">                   
-                        <span class="time">9:30 am </span>
+                        <span class="time">9:30 am - 10:00 am</span>
                         <h4>High Tea</h4>
                       </div>
                     </div>
@@ -398,7 +398,7 @@
                     <div id="headingOne3">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne3" aria-expanded="false" aria-controls="collapseOne3">
              
-                        <span class="time">10am - 11:00 am</span>
+                        <span class="time">10:00 am - 11:00 am</span>
                         <h4>Technical Session</h4>
                       </div>
                     </div>
