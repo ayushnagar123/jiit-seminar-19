@@ -516,8 +516,24 @@
         <div class="row">
           <div class="col-12">
             <div id="conatiner-map">
-                                    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqufaztDK7RBxMkTF3x2v_J7x7UhlpUu4&callback=initMap"
-  type="text/javascript"></script></div>
+                                    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2-eRizZfgwTulNj0e6nJpaWIMFS2ZK1g&callback=initMap">
+                                           </script>
+                                                                                                              </div>
           </div>
         </div>
       </div>
