@@ -89,19 +89,13 @@
             <a class="page-scrool" href="#about">About</a>
           </li>
           <li>
-             <a class="page-scroll" href="#schedules">schedules</a>
+             <a class="page-scroll" href="#schedules">Schedule</a>
           </li>
           <li>
-            <a class="page-scroll" href="#team">Speakers</a>
-          </li>
-          <li>
-            <a class="page-scroll" href="#faq">Faq</a>
+             <a class="page-scroll" href="#brochure">Brochure</a>
           </li>
           <li>
             <a class="page-scroll" href="#sponsors">Sponsors</a>
-          </li>
-          <li>
-            <a class="page-scroll" href="#pricing">pricing</a>
           </li>
           <li>
             <a class="page-scroll" href="#google-map-area">Contact</a>
@@ -186,7 +180,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Seeks to provide the students wtih a platform to come and explore their research potential,channelize their thoughts into proper form of expression and fight all forms of fright through paper writing and poster presentation.</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">The Seminar seeks to provide the students wtih a platform to come and explore their research potential,channelize their thoughts into proper form of expression and fight all forms of fright through paper writing and poster presentation.</p>
             </div>
           </div>
         </div>
@@ -199,7 +193,7 @@
               </div>
               <div class="services-content">
                 <h3><a href="#">Get Inspired</a></h3>
-                <p>Get your research paper published for the addon to profile.</p>
+                <p>Get your research papers published and poster presented and let it shine in your profile.</p>
               </div>
             </div>
           </div>
