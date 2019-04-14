@@ -262,7 +262,7 @@
               <img class="img-fluid" src="assets/img/about/img3.jpg" alt="">
               <div class="about-text">
                 <h3><a href="#">What are the benifits?</a></h3>
-                <p>It gives you a start to think differently, have new perspectives and work on various issues which is the need of today's society. Also it will be and add-on to your personality.</p>
+                <p>It gives you a start to think differently, have new perspectives and work on various issues which is the need of today's society.</p>
               </div>
             </div>
           </div>
