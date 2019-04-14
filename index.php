@@ -276,7 +276,7 @@
       <div class="container">
         <div class="row">
           <!-- Counter Item -->
-          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+          <div class="col-md-6 col-lg-4 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="0.3s">
               <div class="icon"><i class="lni-map"></i></div>
               <p>Jaypee Institute</p>
@@ -284,14 +284,14 @@
             </div>
           </div>
           <!-- Counter Item -->
-          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+          <div class="col-md-6 col-lg-4 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="0.6s">
               <div class="icon"><i class="lni-timer"></i></div>
               <p>April 26 - 27, 2019</p>
               <span>09:00 AM – 05:00 PM</span>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+          <div class="col-md-6 col-lg-4 col-xs-12 work-counter-widget text-center">
             <div class="counter wow fadeInRight" data-wow-delay="1.2s">
               <div class="icon"><i class="lni-coffee-cup"></i></div>
               <p>Free Lunch & Snacks</p>
