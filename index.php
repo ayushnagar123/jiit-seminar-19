@@ -205,7 +205,7 @@
               </div>
               <div class="services-content">
                 <h3><a href="#">Meet New Faces</a></h3>
-                <p>Get chance to meet and interact with new faces and get lots of experience.</p>
+                <p>Get chance to meet and interact with various mentors and gain lots of experience.</p>
               </div>
             </div>
           </div>
@@ -217,7 +217,7 @@
               </div>
               <div class="services-content">
                 <h3><a href="#">Fresh Tech Insights</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                <p>Boost up your ideologies with the technical sessions and shape up your persona.</p>
               </div>
             </div>
           </div>
@@ -234,7 +234,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">About This Events</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Forms and Experimentations in Contemporary Literature</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Creating and Experimenting with Contemporary Literature:Trends & Techniques</p>
             </div>
           </div>
         </div>
@@ -244,8 +244,7 @@
               <img class="img-fluid" src="assets/img/about/img1.jpg" alt="">
               <div class="about-text">
                 <h3><a href="#">Wanna Know Our Mission?</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                <a class="btn btn-common btn-rm" href="#">Read More</a>
+                <p>To help today's youth to come out from their parameters and explore newer possibilities with their talents.</p>
               </div>
             </div>
           </div>
@@ -254,8 +253,7 @@
               <img class="img-fluid" src="assets/img/about/img2.jpg" alt="">
               <div class="about-text">
                 <h3><a href="#">What you will learn?</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                <a class="btn btn-common btn-rm" href="#">Read More</a>
+                <p>Creating and cherishing new forms of Literature and exploring it's utilities in the Technology driven world.</p>
               </div>
             </div>
           </div>
@@ -264,8 +262,7 @@
               <img class="img-fluid" src="assets/img/about/img3.jpg" alt="">
               <div class="about-text">
                 <h3><a href="#">What are the benifits?</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                <a class="btn btn-common btn-rm" href="#">Read More</a>
+                <p>It gives you a start to think differently, have new perspectives and work on various issues which is the need of today's society. Also it will be and add-on to your personality.</p>
               </div>
             </div>
           </div>
@@ -584,7 +581,7 @@
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
             <h3><img src="assets/img/logo2.png" alt=""></h3>
             <p>
-              Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam quis nostrud ncididunt.
+              The Seminar's primary objective is to instigate a research based thinking in the young minds and help them achieve success.
             </p>
           </div>
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
