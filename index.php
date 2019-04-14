@@ -369,22 +369,19 @@
                   <div class="card">
                     <div id="headingOne">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-1.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>Web Design Principles and Best Practices</h4>
-                        <h5 class="name">David Warner</h5>
+                                          
+                        <span class="time">9:00 am/span>
+                        <h4>Innaugration by Hon’ Vice Chancellor</h4>
                       </div>
                     </div>
-                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                   <!-- <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                       <div class="card-body">
                         <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
                         <div class="location">
                           <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                         </div>
                       </div>
-                    </div>
+                    </div> --!>
                   </div>
                   <div class="card">
                     <div id="headingTwo">
