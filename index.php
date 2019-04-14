@@ -353,7 +353,6 @@
                   <div class="card">
                     <div id="headingOne">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                          
                         <span class="time">9:00 am</span>
                         <h4>Inaugration by Hon’ Vice Chancellor</h4>
                       </div>
@@ -383,6 +382,14 @@
                       </div>
                     </div>
                   </div>
+                  <div class="card">
+                    <div id="headingThree">
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">                    
+                        <span class="time">2:00 pm - 4:00 pm</span>
+                        <h4>Technical Sessions</h4>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div class="tab-pane fade" id="wednesday" role="tabpanel" aria-labelledby="wednesday-tab">
@@ -390,60 +397,44 @@
                   <div class="card">
                     <div id="headingOne3">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne3" aria-expanded="false" aria-controls="collapseOne3">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-1.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>Web Design Principles and Best Practices</h4>
-                        <h5 class="name">David Warner</h5>
-                      </div>
-                    </div>
-                    <div id="collapseOne3" class="collapse show" aria-labelledby="headingOne3" data-parent="#accordion3">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
+             
+                        <span class="time">10am - 11:00 am</span>
+                        <h4>Technical Session</h4>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div id="headingTwo3">
-                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo3" aria-expanded="false" aria-controls="collapseTwo3">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-2.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>Web Design Principles and Best Practices</h4>
-                        <h5 class="name">David Warner</h5>
-                      </div>
-                    </div>
-                    <div id="collapseTwo3" class="collapse" aria-labelledby="headingTwo3" data-parent="#accordion3">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo3" aria-expanded="false" aria-controls="collapseTwo3">                    
+                        <span class="time">11:00 am - 1:00 pm</span>
+                        <h4>Plenary Session</h4>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div id="headingThree3">
                       <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
-                        <div class="images-box">
-                          <img class="img-fluid" src="assets/img/speaker/speakers-3.jpg" alt="">
-                        </div>                     
-                        <span class="time">10am - 12:30pm</span>
-                        <h4>Web Design Principles and Best Practices</h4>
-                        <h5 class="name">David Warner</h5>
+                     
+                        <span class="time">1:00 pm - 2:00 pm</span>
+                        <h4>Lunch</h4>
                       </div>
                     </div>
-                    <div id="collapseThree3" class="collapse" aria-labelledby="headingThree3" data-parent="#accordion3">
-                      <div class="card-body">
-                        <p>Consectetur adipisicing elit. Quod distinctio impedit sint accusantium ducimus lites consequuntur innobisl dolores saepe.Proin sit amet turpis lobortis.</p>
-                        <div class="location">
-                          <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                        </div>
+                  </div>
+                  <div class="card">
+                    <div id="headingThree3">
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                     
+                        <span class="time">2:30 pm - 4:00 pm</span>
+                        <h4>Table Talk : Guftgu</h4>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div id="headingThree3">
+                      <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                     
+                        <span class="time">4:00 pm - 5:00 pm</span>
+                        <h4>Valedictory</h4>
                       </div>
                     </div>
                   </div>
