@@ -588,9 +588,6 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
             <h3><img src="assets/img/logo2.png" alt=""></h3>
-            <p>
-              The Seminar's primary objective is to instigate a research based thinking in the young minds and help them achieve success.
-            </p>
           </div>
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
             <h3>QUICK LINKS</h3>
