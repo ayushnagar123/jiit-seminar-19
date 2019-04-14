@@ -515,7 +515,9 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-12">
-            <div id="conatiner-map"></div>
+            <div id="conatiner-map">
+                                    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqufaztDK7RBxMkTF3x2v_J7x7UhlpUu4&callback=initMap"
+  type="text/javascript"></script></div>
           </div>
         </div>
       </div>
