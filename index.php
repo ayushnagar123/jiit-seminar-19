@@ -186,7 +186,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Seeks  to provide the students wtih a platform to come and explore their research potential,channelize their thoughts into proper form of expression and fight all forms of fright through paper writing and presentation.</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Seeks to provide the students wtih a platform to come and explore their research potential,channelize their thoughts into proper form of expression and fight all forms of fright through paper writing and poster presentation.</p>
             </div>
           </div>
         </div>
@@ -319,7 +319,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event's Schedule</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">A followup of the events</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">A follow-up of the events</p>
             </div>
           </div>
         </div>
@@ -678,7 +678,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Brochure</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Trends & Techniques used in Today's Literature</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar 3.0</p>
             </div>
           </div>
           <p> Coming Soon </p>
@@ -710,7 +710,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Sponsors</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar 3.0</p>
             </div>
           </div>
         </div>
@@ -766,7 +766,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Drop A Message</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar</p>
             </div>
           </div>
           <div class="col-lg-7 col-md-12 col-xs-12">
