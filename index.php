@@ -20,20 +20,7 @@
     <!-- Main Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
     <!-- Responsive Style -->
-    <link rel="style sheet" type="text/css" href="assets/css/responsive.css">
-    <style>
-      /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-      #map {
-        height: 100%;
-      }
-      /* Optional: Makes the sample page fill the window. */
-      html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
   </head>
   <body>
@@ -162,10 +149,8 @@
         </a>
       </div>
       <!-- Main Carousel Section End -->
-
     </header>
     <!-- Header Area wrapper End -->
-
     <!-- Coundown Section Start -->
     <section class="countdown-timer section-padding">
       <div class="container">
@@ -185,7 +170,6 @@
       </div>
     </section>
     <!-- Coundown Section End -->
-
      <!-- Services Section Start -->
     <section id="services" class="services section-padding">
       <div class="container">
@@ -239,7 +223,6 @@
     </section>
     <!-- Services Section End -->
     
-
     <!-- About Section Start -->
     <section id="about" class="section-padding">
       <div class="container">
@@ -283,7 +266,6 @@
       </div>
     </section>
     <!-- About Section End -->
-
     <!-- Counter Area Start-->
     <section class="counter-section section-padding">
       <div class="container">
@@ -315,7 +297,6 @@
       </div>
     </section>
     <!-- Counter Area End-->
-
     <!-- Schedule Section Start -->
     <section id="schedules" class="schedule section-padding">
       <div class="container">
@@ -462,7 +443,6 @@
       </div>
     </section>
     <!-- Event Brochure End -->
-
     <!-- Team Section Start -->
     <section id="team" class="section-padding text-center">
       <div class="container">
@@ -478,7 +458,6 @@
       </div>
     </section>
     <!-- Team Section End -->
-
     <!-- Sponsors Section Start -->
     <section id="sponsors" class="section-padding">
       <div class="container">
@@ -531,60 +510,27 @@
             <div id="conatiner-map">
                                     <div id="map"></div>
     <script>
-      // This example requires the Places library. Include the libraries=places
-      // parameter when you first load the API. For example:
-      // <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2-eRizZfgwTulNj0e6nJpaWIMFS2ZK1g&libraries=places">
-
-      var map;
-      var service;
-      var infowindow;
-
       function initMap() {
-        var sydney = new google.maps.LatLng(-33.867, 151.195);
-
-        infowindow = new google.maps.InfoWindow();
-
-        map = new google.maps.Map(
-            document.getElementById('map'), {center: sydney, zoom: 15});
-
-        var request = {
-          query: 'Museum of Contemporary Art Australia',
-          fields: ['name', 'geometry'],
-        };
-
-        service = new google.maps.places.PlacesService(map);
-
-        service.findPlaceFromQuery(request, function(results, status) {
-          if (status === google.maps.places.PlacesServiceStatus.OK) {
-            for (var i = 0; i < results.length; i++) {
-              createMarker(results[i]);
-            }
-
-            map.setCenter(results[0].geometry.location);
-          }
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
         });
-      }
-
-      function createMarker(place) {
         var marker = new google.maps.Marker({
-          map: map,
-          position: place.geometry.location
-        });
-
-        google.maps.event.addListener(marker, 'click', function() {
-          infowindow.setContent(place.name);
-          infowindow.open(map, this);
+          position: uluru,
+          map: map
         });
       }
     </script>
-
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2-eRizZfgwTulNj0e6nJpaWIMFS2ZK1g&callback=initMap">
+                                           </script>
                                                                                                               </div>
           </div>
         </div>
       </div>
     </section>
     <!-- Map Section End -->
-
     <!-- Contact Us Section -->
     <section id="contact-map" class="section-padding">
       <div class="container">
@@ -636,14 +582,13 @@
       </div>
     </section>
     <!-- Contact Us Section End -->
-
     <!-- Footer Section Start -->
     <footer class="footer-area section-padding">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
             <h3><img src="assets/img/logo2.png" alt=""></h3>
-            <p style="text-align:center;">
+            <p>
               The Seminar's primary objective is to instigate a research based thinking in the young minds and help them achieve success.
             </p>
           </div>
@@ -662,6 +607,7 @@
               <h5 class="widget-title">FOLLOW US ON</h5>
               <ul class="footer-social">
                 <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
+                <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
           </div>
@@ -669,12 +615,10 @@
       </div>
     </footer>
     <!-- Footer Section End -->
-
     <!-- Go to Top Link -->
     <a href="#" class="back-to-top">
     	<i class="lni-chevron-up"></i>
     </a>
-
     <div id="preloader">
       <div class="sk-circle">
         <div class="sk-circle1 sk-child"></div>
@@ -691,7 +635,6 @@
         <div class="sk-circle12 sk-child"></div>
       </div>
     </div>
-
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="assets/js/jquery-min.js"></script>
     <script src="assets/js/popper.min.js"></script>
