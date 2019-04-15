@@ -508,23 +508,26 @@
         <div class="row">
           <div class="col-12">
             <div id="conatiner-map">
-                                    <div id="map"></div>
-    <script>
-      function initMap() {
-        var uluru = {lat: -25.363, lng: 131.044};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2-eRizZfgwTulNj0e6nJpaWIMFS2ZK1g&callback=initMap">
-                                           </script>
+              <p>My Google Maps Demo</p> 
+                <div id="map" style="width: 80%; height: 400px; background-color: grey; "></div>
+    <p>My Google Maps Demo</p> 
+    <div id="map"></div> 
+    <script> 
+      function initMap() { 
+        var test= {lat: 28.6297, lng: 77.3721}; 
+        var map = new google.maps.Map(document.getElementById('map'), { 
+          zoom: 15, 
+          center: test 
+        }); 
+        var marker = new google.maps.Marker({ 
+          position: test, 
+          map: map 
+        }); 
+      } 
+    </script> 
+    <script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyDIqoLh27Vwr_MdMNj_muZ5rGS79brgv6k&callback=initMap">
+</script>
                                                                                                               </div>
           </div>
         </div>
@@ -613,7 +616,7 @@
     <!-- Footer Section End -->
     <!-- Go to Top Link -->
     <a href="#" class="back-to-top">
-    	<i class="lni-chevron-up"></i>
+      <i class="lni-chevron-up"></i>
     </a>
     <div id="preloader">
       <div class="sk-circle">
@@ -644,8 +647,6 @@
     <script src="assets/js/main.js"></script>
     <script src="assets/js/form-validator.min.js"></script>
     <script src="assets/js/contact-form-script.min.js"></script>
-    /*<script src="assets/js/map.js"></script>
-    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>
-    */  
+    
   </body>
 </html>
