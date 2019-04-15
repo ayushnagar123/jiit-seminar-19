@@ -51,7 +51,7 @@ $Body .= $message;
 $Body .= "\n";
 
 // send email
-$success = mail($EmailTo, $Subject, $Body, "From:".$email);
+$success = mail($EmailTo, $Subject, $Body, "From:".strtolower($email));
 
 // redirect to success page
 if ($success && $errorMSG == ""){
