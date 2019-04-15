@@ -21,7 +21,9 @@
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
     <!-- Responsive Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
-
+	<meta name="viewport" content="width = 1050, user-scalable = no" />
+<script type="text/javascript" src="extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="extras/modernizr.2.5.3.min.js"></script>
   </head>
   <body>
 
@@ -437,7 +439,55 @@
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Brochure</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">Students' Literary Seminar 3.0</p>
             </div>
-           <p style="text-align:center;" ><a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a></p>
+		<div class="flipbook-viewport">
+	<div class="container">
+		<div class="flipbook">
+			<div style="background-image:url(sample/basic/pages/1.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/2.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/3.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/4.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/5.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/6.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/7.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/8.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/9.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/10.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/11.jpg)"></div>
+			<div style="background-image:url(sample/basic/pages/12.jpg)"></div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+function loadApp() {
+	// Create the flipbook
+	$('.flipbook').turn({
+			// Width
+			width:922,
+			
+			// Height
+			height:600,
+			// Elevation
+			elevation: 50,
+			
+			// Enable gradients
+			gradients: true,
+			
+			// Auto center this flipbook
+			autoCenter: true
+	});
+}
+// Load the HTML4 version if there's not CSS transform
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['lib/turn.js'],
+	nope: ['lib/turn.html4.min.js'],
+	both: ['samples/basic/css/basic.css'],
+	complete: loadApp
+});
+</script>
+           <!--<p style="text-align:center;" ><a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">Coming Soon!</a></p>-->
           </div>
         </div>
       </div>
