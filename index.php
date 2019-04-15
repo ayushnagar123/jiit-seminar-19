@@ -460,6 +460,11 @@
 
 
 <script type="text/javascript">
+		    $(document).ready(function(){
+   
+   $('.flipbook').load("samples/basic/index.html");
+
+});
 function loadApp() {
 	// Create the flipbook
 	$('.flipbook').turn({
