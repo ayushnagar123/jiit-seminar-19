@@ -565,25 +565,41 @@ yepnope({
             <div id="conatiner-map">
               <p>My Google Maps Demo</p> 
                 <div id="map" style="width: 80%; height: 400px; background-color: grey; "></div>
-    <p>My Google Maps Demo</p> 
-    <div id="map"></div> 
-    <script> 
-      function initMap() { 
-        var test= {lat: 28.6297, lng: 77.3721}; 
-        var map = new google.maps.Map(document.getElementById('map'), { 
-          zoom: 15, 
-          center: test 
-        }); 
-        var marker = new google.maps.Marker({ 
-          position: test, 
-          map: map 
-        }); 
-      } 
-    </script> 
-    <script type="text/javascript"
-        src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyDIqoLh27Vwr_MdMNj_muZ5rGS79brgv6k&callback=initMap">
-</script>
-                                                                                                              </div>
+    <script>
+		function initMap(){
+			var map = new google.maps.Map(document.getElementById('map'), {center: {lat: 28.630044, lng: 77.372082},
+				zoom: 18,
+				fullscreenControl: false,
+				gestureHandling: 'cooperative'
+			});
+			var marker = new google.maps.Marker({position: {lat: 28.630044, lng: 77.372082}, map: map});
+		}
+		/*$(document).ready(function(e){
+			loadComplete();
+		});*/
+		$(".nav-item").hover(function() {
+			var s = $(this).children('a').children('span');
+			s.show();
+		}, function() {
+			var s = $(this).children('a').children('span');
+			s.hide();
+		});
+		function loadComplete(){
+			$(".preloader").addClass('animated fadeOut');
+			$(".preloader").css('display', 'none');
+			$(".fullBody").css('display', 'block');
+			$(".fullBody").addClass('animated fadeIn');
+			particlesJS.load('particles-js', '/javascripts/particles.json', function(){
+				}
+			);
+			$(".main-page").hide();
+			$(".home").show();
+		}
+	</script>
+
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnu2aaSXGSKGFat68JrW7oDNLVegDUvYI&callback=initMap"></script>
+             </div>
           </div>
         </div>
       </div>
