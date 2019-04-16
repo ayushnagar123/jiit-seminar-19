@@ -563,8 +563,7 @@ yepnope({
         <div class="row">
           <div class="col-12">
             <div id="conatiner-map">
-              <p>My Google Maps Demo</p> 
-                <div id="map" style="width: 80%; height: 400px; background-color: grey; "></div>
+                <div id="map" style="width: 100%; height: 400px; background-color: grey; "></div>
     <script>
 		function initMap(){
 			var map = new google.maps.Map(document.getElementById('map'), {center: {lat: 28.630044, lng: 77.372082},
