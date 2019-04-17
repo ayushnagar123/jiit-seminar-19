@@ -64,11 +64,10 @@
                 </a>
               </li>
 	      <li class="nav-item">
-                <ul class="nav-link" href="#archive">
+                <select class="nav-link">
                   Archive
-			<li> 2017</li>
-		      </ul>
-                </a>
+			<option><a href="#archive"> 2017 </option> </a>
+		  </select>  
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#team">
