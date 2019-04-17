@@ -64,9 +64,8 @@
                 </a>
               </li>
 	      <li class="nav-item">
-                <select class="nav-link">
-                  Archive
-			<option><a href="#archive"> 2017 </option> </a>
+                <select name="Archive" class="nav-link">
+			<option> <a href="#archive"> 2017 </option> </a>
 		  </select>  
               </li>
               <li class="nav-item">
